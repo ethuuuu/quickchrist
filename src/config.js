@@ -2,7 +2,7 @@
 export const CONFIG = {
   // HUMAN FILLS IN: [lat, lon] of the campus main gate. Leave null until given.
   // Agents must never guess this value.
-  DEFAULT_CENTER: null,
+  DEFAULT_CENTER: [12.863833, 77.434773],
   DEFAULT_ZOOM: 17,
   MAX_ZOOM: 19,
 
